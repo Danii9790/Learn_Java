@@ -1,3 +1,4 @@
+package Methods;
 public class method {
     static void myMethod(){
         System.out.println("I just got executed!");
@@ -6,6 +7,5 @@ public class method {
         myMethod();
         myMethod();
         myMethod();
-
     }
 }
